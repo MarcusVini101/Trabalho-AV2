@@ -1,0 +1,9 @@
+c:\users\juliana.almeida\documents\visual studio 2015\Projects\TrabalhoAV1\TrabalhoAV1\bin\Debug\TrabalhoAV1.exe.config
+c:\users\juliana.almeida\documents\visual studio 2015\Projects\TrabalhoAV1\TrabalhoAV1\bin\Debug\TrabalhoAV1.exe
+c:\users\juliana.almeida\documents\visual studio 2015\Projects\TrabalhoAV1\TrabalhoAV1\bin\Debug\TrabalhoAV1.pdb
+c:\users\juliana.almeida\documents\visual studio 2015\Projects\TrabalhoAV1\TrabalhoAV1\obj\Debug\TrabalhoAV1.csprojResolveAssemblyReference.cache
+c:\users\juliana.almeida\documents\visual studio 2015\Projects\TrabalhoAV1\TrabalhoAV1\obj\Debug\TrabalhoAV1.Form1.resources
+c:\users\juliana.almeida\documents\visual studio 2015\Projects\TrabalhoAV1\TrabalhoAV1\obj\Debug\TrabalhoAV1.Properties.Resources.resources
+c:\users\juliana.almeida\documents\visual studio 2015\Projects\TrabalhoAV1\TrabalhoAV1\obj\Debug\TrabalhoAV1.csproj.GenerateResource.Cache
+c:\users\juliana.almeida\documents\visual studio 2015\Projects\TrabalhoAV1\TrabalhoAV1\obj\Debug\TrabalhoAV1.exe
+c:\users\juliana.almeida\documents\visual studio 2015\Projects\TrabalhoAV1\TrabalhoAV1\obj\Debug\TrabalhoAV1.pdb
